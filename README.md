@@ -1,5 +1,6 @@
 # Secure-Software-Engineering
-Comparative Analysis of Symmetric and Asymmetric Encryption Techniques
+Project Topic: Comparative Analysis of Symmetric and Asymmetric Encryption Techniques
+ <br />
  <br />
 -"Project papers" folder contains all research papers consulted while doing the project
  <br />
